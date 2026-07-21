@@ -40,7 +40,7 @@
     "@emnapi/core": "^1.11.2",
     "@emnapi/runtime": "^1.11.2",
     "@emnapi/wasi-threads": "^1.2.2",
-    "@eslint/js": "^9.39.2",
+    "@eslint/js": "^10.0.1",
     "@types/cookie-parser": "^1.4.10",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
