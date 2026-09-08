@@ -24,7 +24,7 @@
     "docker:config": "docker compose config"
   },
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
+    "@playwright/test": "^1.63.0",
     "prettier": "^3.7.4"
   }
 }
